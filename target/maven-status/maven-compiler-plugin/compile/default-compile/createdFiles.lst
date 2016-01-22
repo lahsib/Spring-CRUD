@@ -1,0 +1,14 @@
+com\bs\customerrm\entity\Category.class
+com\bs\customerrm\dao\EnquiryDAO.class
+com\bs\customerrm\dao\impl\EnquiryDAOImpl.class
+com\bs\customerrm\service\impl\EnquiryServiceImpl.class
+com\bs\customerrm\controller\CategoryContoller.class
+com\bs\customerrm\service\EnquiryService.class
+com\bs\customerrm\dao\impl\CategoryDAOImpl.class
+com\bs\customerrm\controller\HomeController.class
+com\bs\customerrm\api\CategoryApiController.class
+com\bs\customerrm\dao\CategoryDAO.class
+com\bs\customerrm\service\CategoryService.class
+com\bs\customerrm\service\impl\CategoryServiceImpl.class
+com\bs\customerrm\controller\EnquiryController.class
+com\bs\customerrm\entity\Enquiry.class
